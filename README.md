@@ -6,6 +6,10 @@ The project demonstrates the practical implementation of **Object-Oriented Progr
 
 <br>
 
+<img width="1330" height="641" alt="image" src="https://github.com/user-attachments/assets/c664760e-e179-4ab4-af7d-1abb6963c6a0" />
+<img width="1188" height="586" alt="image" src="https://github.com/user-attachments/assets/38449b58-dd34-4610-bc6b-e55b2664b7ab" />
+
+
 ## ✨ Features
 
 ### 🔐 Role-Based Authentication
